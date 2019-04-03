@@ -1,4 +1,28 @@
 #calculator{
-    border: 1px solid gray;
-    display:subgrid
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px 0;
 }
+
+#calcinput {
+  margin-bottom: 10px;
+}
+
+.row1 {
+  margin-top: 5px;
+}
+
+.row2 {
+  margin-top: 5px;
+}
+
+.row3 {
+  margin-top: 5px;
+}
+
+.row4 {
+  margin-top: 5px;
+}
+
+
+
